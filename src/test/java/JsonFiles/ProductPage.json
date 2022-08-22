@@ -1,0 +1,38 @@
+[
+  {
+    "value": "new UiSelector().className(\"android.widget.Button\").text(\"Track show\")",
+    "type": "UiSelector",
+    "key": "trackButton_ProductPage"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"base\").childSelector(new UiSelector().className(\"android.view.View\")).childSelector(new UiSelector().className(\"android.widget.Button\"))",
+    "type": "UiSelector",
+    "key": "backButton_ProductPage"
+  },
+  {
+    "value": "new UiSelector().className(\"android.widget.Button\").text(\"Done\")",
+    "type": "UiSelector",
+    "key": "backButton2_ProductPage"
+  },
+  {
+  "value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[5]/android.view.View[4]/android.view.View[1]",
+  "type": "xpath",
+  "key": "platforms_ProductPage"
+},
+  {
+    "value": "new UiSelector().className(\"android.widget.Button\").text(\"None\")",
+    "type": "UiSelector",
+    "key": "None_ProductPage"
+  },
+  {
+    "value": "new UiSelector().className(\"android.view.View\").text(\"Better Call Saul\")",
+    "type": "UiSelector",
+    "key": "nameVisibility_ProductPage"
+  },
+  {
+    "value": "new UiSelector().className(\"android.widget.Button\").text(\"Tracking\")",
+    "type": "UiSelector",
+    "key": "unTrack_ProductPage"
+  }
+
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "new UiSelector().resourceId(\"base\").childSelector(new UiSelector().className(\"android.view.View\").descriptionContains(\"Saul\"))",
+    "type": "UiSelector",
+    "key": "TvSeries_WatchlistPage"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"base\").childSelector(new UiSelector().className(\"android.view.View\").descriptionContains(\"Saul\"))",
+    "type": "UiSelector",
+    "key": "item_WatchlistPage"
+  },
+  {
+    "value": "new UiSelector().className(\"android.widget.TextView\").text(\"Home\")",
+    "type": "UiSelector",
+    "key": "Home_WatchlistPage"
+  }
+]

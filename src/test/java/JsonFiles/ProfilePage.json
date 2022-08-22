@@ -1,0 +1,12 @@
+[
+  {
+    "value": "com.akakce.akakce:id/profile_name_surname",
+    "type": "id",
+    "key": "nameText"
+  },
+  {
+    "value": "com.akakce.akakce:id/leftIcon",
+    "type": "id",
+    "key": "leftButton"
+  }
+]

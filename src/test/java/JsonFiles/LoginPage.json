@@ -1,0 +1,12 @@
+[
+  {
+    "value": "new UiSelector().text(\"Continue with Google\")",
+    "type": "UiSelector",
+    "key": "continueWithGoogle_LoginPage"
+  },
+  {
+    "value": "com.google.android.gms:id/container",
+    "type": "id",
+    "key": "selectEmail_LoginPage"
+  }
+]

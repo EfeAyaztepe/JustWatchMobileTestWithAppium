@@ -1,0 +1,12 @@
+[
+  {
+    "value": "new UiSelector().resourceId(\"base\").childSelector(new UiSelector().className(\"android.widget.EditText\"))",
+    "type": "UiSelector",
+    "key": "searchBox_SearchPage"
+  },
+  {
+    "value": "new UiSelector().className(\"android.view.View\").textContains(\"Saul\").instance(0)",
+    "type": "UiSelector",
+    "key": "suggestName_SearchPage"
+  }
+]

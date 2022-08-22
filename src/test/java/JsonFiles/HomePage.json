@@ -1,0 +1,37 @@
+[
+  {
+    "value": "new UiSelector().className(\"android.widget.Button\").text(\"Sign in\")",
+    "type": "UiSelector",
+    "key": "signInButton_HomePage"
+  },
+  {
+    "value": "new UiSelector().className(\"android.widget.Button\").text(\"I agree\")",
+    "type": "UiSelector",
+    "key": "acceptCookie_HomePage"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"base\").childSelector(new UiSelector().className(\"android.widget.Button\").instance(1))",
+    "type": "UiSelector",
+    "key": "searchButton_HomePage"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"base\").childSelector(new UiSelector().className(\"android.widget.Button\").instance(2))",
+    "type": "UiSelector",
+    "key": "settingsButton_HomePage"
+  },
+  {
+    "value": "new UiSelector().className(\"android.widget.TextView\").text(\"Popular\")",
+    "type": "UiSelector",
+    "key": "popularSection_HomePage"
+  },
+  {
+    "value": "new UiSelector().className(\"android.view.View\").description(\"TV Shows\")",
+    "type": "UiSelector",
+    "key": "tvShowSection_HomePage"
+  },
+  {
+    "value": "new UiSelector().className(\"android.widget.TextView\").text(\"Watchlist\")",
+    "type": "UiSelector",
+    "key": "Watchlist_HomePage"
+  }
+]

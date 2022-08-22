@@ -1,0 +1,22 @@
+[
+  {
+    "value": "new UiSelector().text(\"Logged in with \")",
+    "type": "UiSelector",
+    "key": "loginControlText_SettingsPage"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"android:id/content\").childSelector(new UiSelector().className(\"android.widget.Button\").index(1))",
+    "type": "UiSelector",
+    "key": "closeSettingsButton_SettingsPage"
+  },
+  {
+    "value": "new UiSelector().className(\"android.widget.Button\").text(\"JustWatch Account\")",
+    "type": "UiSelector",
+    "key": "JustWatchAccountButton_SettingsPage"
+  },
+  {
+    "value": "new UiScrollable(new UiSelector().scrollable(true)).scrollIntoView(new UiSelector().className(\"android.view.View\").text(\"Log out\")).scrollForward()",
+    "type": "UiSelector",
+    "key": "logoutButton_HomePage"
+  }
+]
