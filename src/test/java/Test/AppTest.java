@@ -27,7 +27,9 @@ public class AppTest extends BaseTest{
         watchlistPage.itemControl();
         homePage.goToSettings();
         settingsPage.Logout();
-
+        //For Merge////
+        ///////////////////
+        ///////////////////
 
 
 
